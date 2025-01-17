@@ -2,9 +2,17 @@
 
 ### Performance
 
-Did the network's output make sense?
-How could you adjust weights or activation functions to improve accuracy?
-What did you notice about how small changes (e.g., weights) affect outcomes?
+Did the network's output make sense?  
+
+The output makes sense for us since we used the described model from the website.
+
+How could you adjust weights or activation functions to improve accuracy?  
+
+We should adjust weights better on a given scale and use that scale for bias too.  
+
+What did you notice about how small changes (e.g., weights) affect outcomes?  
+
+Small changes does affect our model since we only work with three inputs. If we would include more inputs the change in the inputs would less affect the output.
 
 ![Basic Neural Network](https://github.com/user-attachments/assets/7f12a26b-6968-4f0f-be7f-df0ba4303645)
 
