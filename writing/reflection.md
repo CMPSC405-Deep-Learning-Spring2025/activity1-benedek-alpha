@@ -14,7 +14,7 @@ What did you notice about how small changes (e.g., weights) affect outcomes?
 
 Small changes does affect our model since we only work with three inputs. If we would include more inputs the change in the inputs would less affect the output.
 
-![Basic Neural Network](https://github.com/user-attachments/assets/7f12a26b-6968-4f0f-be7f-df0ba4303645)
+![Basic Neural Network](https://github.com/user-attachments/assets/6a46127a-b26d-4344-a17b-8889dc4d1b19)
 
 
 ### Ethics
